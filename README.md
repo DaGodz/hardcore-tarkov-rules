@@ -15,6 +15,7 @@ Taken from https://www.twitlonger.com/show/n_1sr500b as a starting point.
 2. No Flea Market.
 3. All non-FiR money must be discarded.
     * *Exception: FiR money you have taken in for vehicle extracts must stay on character*
+4. You can sell items to traders to increase turnover for level requirements - use alpha container to segregate legal & illegal money.
 5. You can craft in hideout, but only with items FiR.
 6. You cannot use the post-raid healing option.
 7. Secure container is only for keys (no Docs case etc).
